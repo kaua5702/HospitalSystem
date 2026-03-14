@@ -49,7 +49,7 @@ Enter patient name: John
 
 Enter patient age: 35
 
-
+--
 
 === Doctor Registration ===
 
@@ -59,13 +59,13 @@ Enter doctor CRM: 12345
 
 Choose specialty (1 - Clinical, 2 - Surgeon): 1
 
-
+--
 
 === Consultation Scheduling ===
 
 Enter diagnosis: Common cold
 
-
+--
 
 === Consultation Information ===
 
@@ -79,7 +79,7 @@ Data: 2026-03-14
 
 Diagnóstico: Common cold
 
-
+--
 
 === Patient Medical History ===
 
